@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-[Clickable Text Go Here](https://siddarthshete.github.io/portfolio/)
+[Click to View ](https://siddarthshete.github.io/Portfolio/)
 
 This repository contains my personal portfolio website, created to showcase my skills, projects, resume, and contact details. The portfolio is designed to be simple, responsive, and easy to navigate, with multiple contact form implementations and backend support.
 
